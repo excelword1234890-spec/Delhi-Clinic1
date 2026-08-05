@@ -1,0 +1,6 @@
+{
+  "name": "Delhi Clinic",
+  "description": "Delhi Clinic (दिल्ली क्लीनिक) - Trusted Healthcare for Every Family. Ultra-modern, luxury private medical clinic in New Delhi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
